@@ -132,7 +132,7 @@ rm F.* → deletes all files that starts with ‘F’
 
 23. `diff <filename> <filename>` : Shows the difference between two files
 
-24. find : Used to find files or folders matching a particular pattern
+24. `find` : Used to find files or folders matching a particular pattern
 
     find <foldername> -name ‘7’ → searches for a file in specified folder whose name is 7
 
